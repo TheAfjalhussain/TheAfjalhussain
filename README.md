@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afjal Hussain</h1>
-<h3 align="center">🚀 Web & App Developer | Helping Businesses Grow Online | Founder at Growthix</h3>
+<h3 align="center">🚀 Full-Stack Developer | Founder at Growthix | Building Scalable Web & Mobile Apps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afjalhussain011&label=Profile%20views&color=0e75b6&style=flat" alt="afjalhussain011" />
@@ -7,14 +7,16 @@
 
 ---
 
-- 🔭 I’m currently working on **Growthix - Web & App Development Agency**
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, Django, Python**
-- 📫 Reach me at: **afjal@growthix.in**
-- 🌐 Portfolio: [growthix.in](https://growthix.in)
+### 👨‍💻 About Me
+
+- 🧠 Founder of **Growthix** – Helping businesses grow online with tech solutions
+- 🚀 Working with **startups & SMEs** to build scalable web and mobile applications
+- 🌐 Visit my portfolio: [growthix.in](https://growthix.in)
+- 📫 Reach me: **afjal@growthix.in**
 
 ---
 
-<h3 align="left">🚀 Connect with me:</h3>
+### 🔗 Connect with Me
 <p align="left">
   <a href="https://x.com/afjalhussain011" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" />
@@ -22,23 +24,63 @@
   <a href="https://www.linkedin.com/in/afjalhussain/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
+  <a href="mailto:afjal@growthix.in" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" height="30" width="30" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tech Stack:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+## 🧠 Currently Learning
+- 🧬 **GenAI** (LangChain, OpenAI API, Google Gemini, RAG, Agents, Vector DBs)
+- 🤖 **Machine Learning** (scikit-learn, pandas, NumPy, Matplotlib)
+- 📱 **Expo & React Native**
+- ☁️ **Serverless Architecture** (Supabase, Appwrite, Firebase)
+- ⚙️ **System Design** & **Scalable APIs**
+
+---
+
+## ⚙️ Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+</p>
+
+### 🧰 Backend & DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+</p>
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
 </p>
 
 ---
@@ -57,17 +99,22 @@
 
 ---
 
-## 🧠 Currently Learning
+## 🏆 Highlights
 
-- Advanced TypeScript
-- Serverless Architecture (Appwrite / Supabase)
-- SEO & Digital Growth Strategies
-- Payment Gateway Integration
+- 💼 Built over 30+ client & agency projects
+- 📱 Created and deployed multiple **React Native** apps
+- 🧠 Exploring **AI integrations** in real-world apps (chatbots, automation)
+- 🔒 Worked with authentication (JWT, OAuth), secure payments (Stripe, PayPal)
+- 🛠 Developed Admin Panels, CRMs, SaaS tools, and dashboards
+
+---
+
+## 🧩 Fun Facts
+
+- 🎯 I love turning **business ideas into real digital products**
+- 💬 I enjoy discussing product ideas, system architecture, and tech trends
+- ✨ I believe in **growth mindset** and **continuous learning**
 
 ---
 
-## 💡 My Goal
-
-Build products that **empower small businesses**, automate workflows, and help brands scale with the **power of technology**.
-
----
+> **Let's build something awesome together!** 🚀
